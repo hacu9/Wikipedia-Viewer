@@ -1,0 +1,63 @@
+body{
+  text-align:center;
+  margin:25px;
+  
+
+
+
+  
+
+background: #4CB8C4; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #4CB8C4 , #3CD3AD); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #4CB8C4 , #3CD3AD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+/* */
+        
+}
+h1{
+  color:#DDEEEE ; font-family: "Great Vibes", cursive; font-size: 130px; line-height: 110px; font-weight: normal; margin-bottom: 20px; margin-top: 10px; text-align: center; text-shadow: 0 1px 1px #fff;
+  padding:20px;
+}
+
+li>a:hover{
+  
+  text-decoration: none;
+  color:#00070;
+   
+}
+li>a{
+  color:navy;
+}
+li{
+  margin:10px;
+}
+
+.rest{
+  color:#DDEEEE ;
+  font-size: 25px; font-family: "Libre Baskerville", serif; line-height: 30px; text-align: center;  padding-top: 20px; 
+   list-style-type: none;
+   padding-bottom: 20px;
+  text-shadow: 0 0 1px #fff;
+  border:1px dotted white;
+  border-radius:60px;
+  
+}
+
+#search{
+  margin:0 auto;
+  width:200px ;
+}
+
+
+
+#random{
+     font-family: "Libre Baskerville", serif; line-height: 25px; text-align: center; 
+ 
+}
+#submitbut{
+    font-family: "Libre Baskerville", serif; line-height: 25px; text-align: center;
+}
+#submitbut:hover,#random:hover{
+  border:1px solid white;
+   border-radius:10px;
+}
